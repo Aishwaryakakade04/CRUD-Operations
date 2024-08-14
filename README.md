@@ -1,6 +1,4 @@
 # CRUD-Operations
-Certainly! Below is a `README.md` file formatted for a GitHub repository, documenting the Python script that performs CRUD operations on a coffee sales dataset stored in a CSV file.
-
 ---
 
 # Coffee Sales CRUD Operations
