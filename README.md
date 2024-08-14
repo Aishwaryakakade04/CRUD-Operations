@@ -1,8 +1,6 @@
 # CRUD-Operations
 ---
 
-# Coffee Sales CRUD Operations
-
 This repository contains a Python script that performs CRUD (Create, Read, Update, Delete) operations on a coffee sales dataset stored in a CSV file. The script uses the `pandas` library for data manipulation and provides a basic framework for managing the dataset.
 
 ## Requirements
