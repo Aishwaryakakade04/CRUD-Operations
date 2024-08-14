@@ -64,7 +64,7 @@ The CSV file (`coffee_sales.csv`) should contain the following columns:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/coffee-sales-crud.git
+    git clone https://github.com/Aishwaryakakade04/CRUD-Operations/blob/main/CRUD%20Operations.ipynb
     ```
 
 2. **Navigate to the repository**:
